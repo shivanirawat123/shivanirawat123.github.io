@@ -41,7 +41,7 @@ function createGrid() {
     }
 
   createGrid();
-
+    hover();
 
   const changeSize=document.querySelector('#newSize');
 changeSize.addEventListener('click',function changeSizeBtn(){
